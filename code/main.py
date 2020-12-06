@@ -21,7 +21,7 @@ label_low = M5TextBox(10, 135, "low", lcd.FONT_Default, white, rotate=0)
 label_high = M5TextBox(278, 135, "high", lcd.FONT_Default, white, rotate=0)
 label_ppm = M5TextBox(60, 155, "----ppm", lcd.FONT_DejaVu40, white, rotate=0)
 label_quality = M5TextBox(80, 200, "(-)", lcd.FONT_Default, white, rotate=0)
-btn_mute = M5Img(60, 220, "res/mute_line.png", muted)
+btn_mute = M5Img(60, 220, "res/mute.png", muted)
 
 label_battery = M5TextBox(280, 6, "---%", lcd.FONT_Default, white, rotate=0)
 img_battery = M5Img(260, 2, "res/battery.png", True)

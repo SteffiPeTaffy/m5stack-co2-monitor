@@ -29,7 +29,9 @@ The following hardware and software will be used in this tutorial:
 
 ### 1. Download and install M5Stack Burner
 You can find the official instructions [here](https://m5stack.github.io/UIFlow_doc/en/en/base/Update.html)
-*   Download the M5Stack Burner & Unzip
+
+On Mac:
+*   Download the <a href="https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/software/M5Burner_MacOS.zip">M5Stack Burner</a> & Unzip
 *   Move “electron-m5burner-v2-eletron” file to your application folder (:warning: important)
 *   Open the application (and allow Mac to open applications from an unknown source)
     *   Go to System Preferences > Security and Privacy > General
